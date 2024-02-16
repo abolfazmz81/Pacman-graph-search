@@ -4,7 +4,7 @@ a graph search project for AI course in `Noshirvani University of Technology` fa
 
 note that i only developed the search algorithms, not the game mechanics and graphics.
 
-## Descritions
+## Descriptions
 - A* (A Start) search algorithm:
   
   Developed for optimized and faster search and pathfinding using heuristics.
